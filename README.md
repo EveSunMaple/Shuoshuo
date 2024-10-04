@@ -3,10 +3,10 @@
 > [!IMPORTANT]
 > This program is under development, for more information, please visit [Shuoshuo/About](https://demo.shuoshuo.saroprock.com/about)
 
-[![license](https://badgen.net/github/license/EveSunMaple/Shoushou)](https://github.com/EveSunMaple/Shoushou/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/EveSunMaple/Shoushou)](https://github.com/EveSunMaple/Shoushou/releases)&nbsp;&nbsp;&nbsp;[![stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/EveSunMaple/Shoushou)
+[![license](https://badgen.net/github/license/EveSunMaple/Shuoshuo)](https://github.com/EveSunMaple/Shuoshuo/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/EveSunMaple/Shuoshuo)](https://github.com/EveSunMaple/Shuoshuo/releases)&nbsp;&nbsp;&nbsp;[![stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/EveSunMaple/Shuoshuo)
 
 ```sh
-pnpm create astro@latest -- --template EveSunMaple/Shoushou
+pnpm create astro@latest -- --template EveSunMaple/Shuoshuo
 ```
 
 Please visit [Demo](https://demo.shuoshuo.saroprock.com)
