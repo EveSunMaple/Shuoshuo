@@ -1,8 +1,7 @@
 # Shuoshuo (with Notion)
 
-<pre align="center">
-This program is under development, for more information, please visit [Shuoshuo/About](https://demo.shuoshuo.saroprock.com/about)
-</pre>
+> [!IMPORTANT]
+> This program is under development, for more information, please visit [Shuoshuo/About](https://demo.shuoshuo.saroprock.com/about)
 
 [![license](https://badgen.net/github/license/EveSunMaple/Shoushou)](https://github.com/EveSunMaple/Shoushou/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/EveSunMaple/Shoushou)](https://github.com/EveSunMaple/Shoushou/releases)&nbsp;&nbsp;&nbsp;[![stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/EveSunMaple/Shoushou)
 
